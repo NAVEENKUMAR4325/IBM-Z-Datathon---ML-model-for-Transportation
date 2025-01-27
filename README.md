@@ -44,7 +44,7 @@ Our solution integrates real-time data sources—such as traffic patterns, passe
 
    ![Screenshot 2024-10-20 023200](https://github.com/user-attachments/assets/1683c253-807c-4552-9d39-3c802b56990b) 
 
-   ![image](https://github.com/user-attachments/assets/bcfbd192-72e0-4415-8e5e-7e2863cbda4d)
+
 
 
 ### 5. **Real-Time Incident and Delay Detection**:
